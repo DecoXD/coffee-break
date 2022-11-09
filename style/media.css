@@ -36,7 +36,7 @@ justify-content: center;
 
 @media(max-width:500px){
     html{
-        font-size: 53%;
+        font-size: 51%;
     }
     .c-coffee-products-content{
         flex-direction: column;
